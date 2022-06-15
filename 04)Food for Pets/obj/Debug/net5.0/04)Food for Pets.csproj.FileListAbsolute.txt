@@ -1,0 +1,5 @@
+C:\Users\maxib\source\repos\01)Fruit market\04)Food for Pets\obj\Debug\net5.0\04)Food for Pets.csproj.AssemblyReference.cache
+C:\Users\maxib\source\repos\01)Fruit market\04)Food for Pets\obj\Debug\net5.0\04)Food for Pets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxib\source\repos\01)Fruit market\04)Food for Pets\obj\Debug\net5.0\04)Food for Pets.AssemblyInfoInputs.cache
+C:\Users\maxib\source\repos\01)Fruit market\04)Food for Pets\obj\Debug\net5.0\04)Food for Pets.AssemblyInfo.cs
+C:\Users\maxib\source\repos\01)Fruit market\04)Food for Pets\obj\Debug\net5.0\04)Food for Pets.csproj.CoreCompileInputs.cache

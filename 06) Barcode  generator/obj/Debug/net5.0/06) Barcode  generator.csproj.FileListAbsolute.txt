@@ -1,0 +1,16 @@
+C:\Users\maxib\source\repos\01)Fruit market\06) Barcode  generator\bin\Debug\net5.0\06) Barcode  generator.exe
+C:\Users\maxib\source\repos\01)Fruit market\06) Barcode  generator\bin\Debug\net5.0\06) Barcode  generator.deps.json
+C:\Users\maxib\source\repos\01)Fruit market\06) Barcode  generator\bin\Debug\net5.0\06) Barcode  generator.runtimeconfig.json
+C:\Users\maxib\source\repos\01)Fruit market\06) Barcode  generator\bin\Debug\net5.0\06) Barcode  generator.runtimeconfig.dev.json
+C:\Users\maxib\source\repos\01)Fruit market\06) Barcode  generator\bin\Debug\net5.0\06) Barcode  generator.dll
+C:\Users\maxib\source\repos\01)Fruit market\06) Barcode  generator\bin\Debug\net5.0\ref\06) Barcode  generator.dll
+C:\Users\maxib\source\repos\01)Fruit market\06) Barcode  generator\bin\Debug\net5.0\06) Barcode  generator.pdb
+C:\Users\maxib\source\repos\01)Fruit market\06) Barcode  generator\obj\Debug\net5.0\06) Barcode  generator.csproj.AssemblyReference.cache
+C:\Users\maxib\source\repos\01)Fruit market\06) Barcode  generator\obj\Debug\net5.0\06) Barcode  generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxib\source\repos\01)Fruit market\06) Barcode  generator\obj\Debug\net5.0\06) Barcode  generator.AssemblyInfoInputs.cache
+C:\Users\maxib\source\repos\01)Fruit market\06) Barcode  generator\obj\Debug\net5.0\06) Barcode  generator.AssemblyInfo.cs
+C:\Users\maxib\source\repos\01)Fruit market\06) Barcode  generator\obj\Debug\net5.0\06) Barcode  generator.csproj.CoreCompileInputs.cache
+C:\Users\maxib\source\repos\01)Fruit market\06) Barcode  generator\obj\Debug\net5.0\06) Barcode  generator.dll
+C:\Users\maxib\source\repos\01)Fruit market\06) Barcode  generator\obj\Debug\net5.0\ref\06) Barcode  generator.dll
+C:\Users\maxib\source\repos\01)Fruit market\06) Barcode  generator\obj\Debug\net5.0\06) Barcode  generator.pdb
+C:\Users\maxib\source\repos\01)Fruit market\06) Barcode  generator\obj\Debug\net5.0\06) Barcode  generator.genruntimeconfig.cache
